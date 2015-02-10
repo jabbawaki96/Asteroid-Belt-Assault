@@ -1,0 +1,15 @@
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Content\Textures\TitleScreen.xnb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Content\Textures\SpriteSheet.xnb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Content\Textures\PauseScreen.xnb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Content\Fonts\Pericles14.xnb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Content\SFX\Explosion1.xnb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Content\SFX\Explosion2.xnb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Content\SFX\Explosion3.xnb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Content\SFX\Explosion4.xnb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Content\SFX\Shot1.xnb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Content\SFX\Shot2.xnb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Asteroid Belt Assault.exe
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Release\Asteroid Belt Assault.pdb
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Release\Asteroid Belt Assault.exe
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Release\Asteroid Belt Assault.pdb

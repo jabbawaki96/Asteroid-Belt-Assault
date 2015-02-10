@@ -1,0 +1,10 @@
+Content\Textures\TitleScreen.xnb
+Content\Textures\SpriteSheet.xnb
+Content\Textures\PauseScreen.xnb
+Content\Fonts\Pericles14.xnb
+Content\SFX\Explosion1.xnb
+Content\SFX\Explosion2.xnb
+Content\SFX\Explosion3.xnb
+Content\SFX\Explosion4.xnb
+Content\SFX\Shot1.xnb
+Content\SFX\Shot2.xnb

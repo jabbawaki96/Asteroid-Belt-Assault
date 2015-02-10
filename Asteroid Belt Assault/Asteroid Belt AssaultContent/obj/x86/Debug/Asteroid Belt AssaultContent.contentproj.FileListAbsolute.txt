@@ -1,0 +1,4 @@
+H:\jjavorsky\Documents\C_Sharp\Ch10\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt AssaultContent\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\jjavorsky\jjavorsky\Documents\C_Sharp\Ch10\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt AssaultContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt AssaultContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Muh Cowde\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt AssaultContent\obj\x86\Debug\Asteroid Belt AssaultContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroid Belt Assault", "Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault.csproj", "{E36AC049-9D38-4E08-805E-E7298EFB84A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroid Belt AssaultContent", "Asteroid Belt Assault\Asteroid Belt AssaultContent\Asteroid Belt AssaultContent.contentproj", "{BED7BA97-254E-4162-BBD3-EDA63B0BF471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36AC049-9D38-4E08-805E-E7298EFB84A1}.Debug|x86.ActiveCfg = Debug|x86
+		{E36AC049-9D38-4E08-805E-E7298EFB84A1}.Debug|x86.Build.0 = Debug|x86
+		{E36AC049-9D38-4E08-805E-E7298EFB84A1}.Release|x86.ActiveCfg = Release|x86
+		{E36AC049-9D38-4E08-805E-E7298EFB84A1}.Release|x86.Build.0 = Release|x86
+		{BED7BA97-254E-4162-BBD3-EDA63B0BF471}.Debug|x86.ActiveCfg = Debug|x86
+		{BED7BA97-254E-4162-BBD3-EDA63B0BF471}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
